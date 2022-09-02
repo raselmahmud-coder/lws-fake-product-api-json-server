@@ -7,4 +7,3 @@
 5. Deployment method এ Github নির্বাচন করুন।
 6. আপনার ব্রাঞ্চ সিলেক্ট করুন।
 7. Deploy branch এ ক্লিক করে ডেপ্লয় করুন। 
-# lws-fake-product-api-json-server
