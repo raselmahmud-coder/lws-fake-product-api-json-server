@@ -200,5 +200,55 @@
       "id": 12,
       "title": "RestAPI"
     }
+  ],
+  "transactions": [
+    {
+      "name": "Book purchase",
+      "type": "expense",
+      "amount": 2500,
+      "id": 1
+    },
+    {
+      "name": "course purchase",
+      "type": "expense",
+      "amount": 5555,
+      "id": 2
+    },
+    {
+      "name": "TopTal",
+      "type": "income",
+      "amount": 50000,
+      "id": 3
+    },
+    {
+      "name": "Upwork",
+      "type": "income",
+      "amount": 230,
+      "id": 4
+    },
+    {
+      "name": "Fiverr",
+      "type": "income",
+      "amount": 450,
+      "id": 5
+    },
+    {
+      "name": "Freelance.com",
+      "type": "income",
+      "amount": 780,
+      "id": 6
+    },
+    {
+      "name": "job less",
+      "type": "income",
+      "amount": 567,
+      "id": 7
+    },
+    {
+      "name": "Udemy Course",
+      "type": "expense",
+      "amount": 700,
+      "id": 8
+    }
   ]
 }
